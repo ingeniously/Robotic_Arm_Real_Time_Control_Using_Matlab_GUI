@@ -2,6 +2,7 @@ function varargout = UserInterface(varargin)
 % USERINTERFACE MATLAB code for UserInterface.fig
 %      USERINTERFACE, by itself, creates a new USERINTERFACE or raises the existing
 %      singleton*.
+
 %
 %      H = USERINTERFACE returns the handle to a new USERINTERFACE or the handle to
 %      the existing singleton*.
