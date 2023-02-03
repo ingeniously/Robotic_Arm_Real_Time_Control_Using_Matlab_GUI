@@ -34,7 +34,7 @@ This section shows the main steps I followed to achieve the goal.
 
 5. [SW-Simscape-Multibody-Link-Plugin](https://ch.mathworks.com/help/smlink/ug/installing-and-linking-simmechanics-link-software.html)
 
-6. [SolidWorks] (tested with Version 2022 )(https://www.solidworks.com/fr/support/free-downloads/)
+6. [SolidWorks] https://www.solidworks.com/fr/support/free-downloads/) (tested with Version 2022 )(
 
 
 
