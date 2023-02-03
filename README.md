@@ -17,7 +17,7 @@ This section shows the main steps I followed to achieve the goal.
    - Install matlab simulink third guide to solve forward 
    - use solidworks to export robot.xml file.
   
-         In matlab at the command window smimport('robot6dof.xml').
+         In matlab at the command window smimport('robot.xml').
  
 
   - Adapt The simulink slx file to what you need
@@ -26,15 +26,15 @@ This section shows the main steps I followed to achieve the goal.
 
 
 ## Requirements
-1. [MATLAB](https://mathworks.com/products/matlab.html) (tested with r2018A and r2019A)
-1. [MATLAB GUI](https://mathworks.com/products/matlab.html) (tested with r2018A and r2019A)
+1. [MATLAB](https://mathworks.com/products/matlab.html) (tested with r2016A )
+1. [MATLAB GUI](https://mathworks.com/products/matlab.html) 
 2. [Simulink](https://mathworks.com/products/simulink.html)
 3. [Simscape](https://mathworks.com/products/simscape.html) 
 4. [Simscape Multibody](https://mathworks.com/products/simmechanics.html)
 
 5. [SW-Simscape-Multibody-Link-Plugin](https://ch.mathworks.com/help/smlink/ug/installing-and-linking-simmechanics-link-software.html)
 
-6. [SolidWorks](https://www.solidworks.com/fr/support/free-downloads/)
+6. [SolidWorks] (tested with Version 2022 )(https://www.solidworks.com/fr/support/free-downloads/)
 
 
 
