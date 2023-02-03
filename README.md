@@ -39,7 +39,3 @@ This section shows the main steps I followed to achieve the goal.
 
 
 
-Hello everyone in this video I would like to introduce to you to use Matlab simulink + solidworks to simulate 6 dof robot forward kinematics.
-first use solidworks to draw the links then assemble them together.
- use solidworks simscape to export robot xml file in matlab to build the control algorithm and simulate the real behavior of the robot
- finally create  robot interface control in matlab Grphical User Interface.
