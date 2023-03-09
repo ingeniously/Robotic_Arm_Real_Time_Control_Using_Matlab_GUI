@@ -23,7 +23,7 @@ This section shows the main steps I followed to achieve the goal.
   - Adapt The simulink slx file to what you need
   - finally create  robot interface control in matlab Grphical User Interface.
 
-
+https://github.com/ingeniously/Robotic_Arm_Real_Time_Control_Using_Matlab_GUI/blob/main/Overview/Video.webm
 
 ## Requirements
 1. [MATLAB](https://mathworks.com/products/matlab.html) (tested with r2016A )
