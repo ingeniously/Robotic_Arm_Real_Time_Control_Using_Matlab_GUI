@@ -25,7 +25,7 @@ This section shows the main steps I followed to achieve the goal.
   - 
  ## Youtube Demo 
 
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/tjFVCCsYsh4/0.jpg)](https://www.youtube.com/watch?v=tjFVCCsYsh4 "Matlab_Solid")
+[![](https://markdown-videos.deta.dev/youtube/tjFVCCsYsh4)](https://youtu.be/tjFVCCsYsh4)
 
 
 ## Requirements
