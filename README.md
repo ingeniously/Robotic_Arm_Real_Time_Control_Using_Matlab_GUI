@@ -22,7 +22,7 @@ This section shows the main steps I followed to achieve the goal.
 
   - Adapt The simulink slx file to what you need
   - finally create  robot interface control in matlab Grphical User Interface.
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/"tjFVCCsYsh4"/0.jpg)](https://www.youtube.com/watch?v="tjFVCCsYsh4" "Matlab_Solid")
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/tjFVCCsYsh4/0.jpg)](https://www.youtube.com/watch?v=tjFVCCsYsh4 "Matlab_Solid")
 
 ## Requirements
 1. [MATLAB](https://mathworks.com/products/matlab.html) (tested with r2016A )
