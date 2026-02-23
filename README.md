@@ -25,8 +25,7 @@ This section shows the main steps I followed to achieve the goal.
   - 
  ## Youtube Demo 
 
-[![](https://markdown-videos.deta.dev/youtube/tjFVCCsYsh4)](https://youtu.be/tjFVCCsYsh4)
-
+[![Demo Video](https://img.youtube.com/vi/tjFVCCsYsh4/maxresdefault.jpg)](https://www.youtube.com/watch?v=tjFVCCsYsh4)
 
 ## Requirements
 1. [MATLAB](https://mathworks.com/products/matlab.html) (tested with r2016A )
